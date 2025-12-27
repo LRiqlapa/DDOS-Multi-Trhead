@@ -17,7 +17,7 @@ link = 'http://127.0.0.1:8787/'
 
 
 
-# --- DONT TOUCH THE BOTTOM CODE ---
+# --- DONT TOUCH THE BOTTOM CODE IF NOT UNDERSTAND ---
 
 
 
